@@ -1,0 +1,24 @@
+name: LifeSteal
+version: ${project.version}
+main: me.sirhenry.lifesteal.LifeSteal
+api-version: 1.16
+authors: [ SirHenry ]
+description: Allows Players to Steal Hearts from Eachother by Killing.
+website: https://youtube.com/sirhenry
+commands:
+  withdraw:
+    description: Allows you to give your hearts to other people
+  grace:
+    description: Grace
+  timeleft:
+    description: Time left
+  ungrace:
+    description: Un-grace
+  mute:
+    description: Mute
+  unmute:
+    description: Un-mute
+  serverstop:
+    description: Server stop
+  asgod:
+    description: As god
